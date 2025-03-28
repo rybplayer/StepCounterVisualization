@@ -4,7 +4,6 @@
 
 # How does a phone 📱 count your steps? 🚶‍➡️🚶‍♀️‍➡️
 
-Names:
 - Ryan Batubara, rbatubara (at) ucsd (dot) edu
 - Isaiah Fang, ifang (at) ucsd (dot) edu
 - Matt Tokunaga, m2tokunaga (at) ucsd (dot) edu
